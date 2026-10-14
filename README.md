@@ -16,3 +16,15 @@ Feature work should be developed on a dedicated branch
 
 and reviewed before integration into the main branch.
 
+
+
+\## Branching Practice 1
+
+
+
+Feature work should be developed on a dedicated branch
+
+and reviewed before integration into the main branch.
+
+
+
